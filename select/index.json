@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "月蝕",
+  "base_artist": "krage",
+  "createdAt": "2026-02-17T13:04:24.315551Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月蝕",
+      "artist": "蔡楓華",
+      "has_synced": true,
+      "path": "select/01_月蝕_蔡楓華.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月蝕(Eclipse)",
+      "artist": "無神コウ(CV.木村良平)",
+      "has_synced": false,
+      "path": "select/02_月蝕(Eclipse)_無神コウ(CV.木村良平).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月蝕 -Lunar Eclipse-",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/03_月蝕_-Lunar_Eclipse-_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月蝕",
+      "artist": "krage",
+      "has_synced": false,
+      "path": "select/04_月蝕_krage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月蝕",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/05_月蝕_BUCK-TICK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月蝕",
+      "artist": "krage",
+      "has_synced": false,
+      "path": "select/pl_01_月蝕_krage.txt"
+    }
+  ]
+}
